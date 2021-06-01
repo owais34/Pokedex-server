@@ -1,8 +1,7 @@
 const express=require('express')
 const cors=require('cors')
 const path = require('path');
-// lolly
-// small
+
 
 
 const app=express()
